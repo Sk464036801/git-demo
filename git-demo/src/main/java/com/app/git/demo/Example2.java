@@ -6,7 +6,11 @@ public class Example2 {
 		System.out.println("1111");
 		System.out.println("git repository edit commit.");
 		System.out.println("git rebase test commit.");
+
 		System.out.println("3333git rebase.");
+
+		System.out.println("222 git test rebase.");
+
 	}
 
 }

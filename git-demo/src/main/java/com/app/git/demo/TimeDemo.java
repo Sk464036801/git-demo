@@ -23,5 +23,9 @@ public class TimeDemo {
 	public static int getAge(int age) {
 		return age;
 	}
+	
+	public static String getAddress(String address) {
+		return address;
+	}
 
 }

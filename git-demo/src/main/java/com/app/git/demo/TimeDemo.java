@@ -38,6 +38,8 @@ public class TimeDemo {
 	public void method1D(){};
 	
 	public void method2D(){};
+	
+	public void method3D(){};
 
 
 }

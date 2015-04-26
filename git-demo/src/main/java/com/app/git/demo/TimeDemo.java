@@ -19,5 +19,9 @@ public class TimeDemo {
 		
 		System.out.println(sectime);
 	}
+	
+	public static int getAge(int age) {
+		return age;
+	}
 
 }

@@ -36,6 +36,8 @@ public class TimeDemo {
 	public void method3M(){};
 
 	public void method1D(){};
+	
+	public void method2D(){};
 
 
 }

@@ -27,5 +27,7 @@ public class TimeDemo {
 	public static String getAddress(String address) {
 		return address;
 	}
+	
+	public void method1M(){};
 
 }

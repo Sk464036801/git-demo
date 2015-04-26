@@ -19,9 +19,5 @@ public class TimeDemo {
 		
 		System.out.println(sectime);
 	}
-	
-	public static String getName(String name) {
-		return name;
-	}
 
 }

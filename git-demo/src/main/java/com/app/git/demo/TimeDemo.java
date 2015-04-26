@@ -28,10 +28,14 @@ public class TimeDemo {
 		return address;
 	}
 	
+
 	public void method1M(){};
 	
 	public void method2M(){};
 	
 	public void method3M(){};
+
+	public void method1D(){};
+
 
 }

@@ -30,6 +30,8 @@ public class TimeDemo {
 	
 
 	public void method4D(){};
+	
+	public void test1(){};
 
 
 }

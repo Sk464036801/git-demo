@@ -29,17 +29,7 @@ public class TimeDemo {
 	}
 	
 
-	public void method1M(){};
-	
-	public void method2M(){};
-	
-	public void method3M(){};
-
-	public void method1D(){};
-	
-	public void method2D(){};
-	
-	public void method3D(){};
+	public void method4D(){};
 
 
 }

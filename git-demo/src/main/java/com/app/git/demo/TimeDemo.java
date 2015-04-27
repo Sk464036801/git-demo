@@ -40,7 +40,7 @@ public class TimeDemo {
 		
 		System.out.println("dev-1 local repository commit 1...");
 		
-		System.out.println("master local repository rebase commit 4...");
+		System.out.println("master local repository rebase commit 5...");
 	};
 
 	public String getAddr(String addr) {

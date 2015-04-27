@@ -34,7 +34,7 @@ public class TimeDemo {
 	public void test1(){
 		System.out.println("test2XOXO remote repository update commit 3...");
 		
-		System.out.println("test3 local repository commit 2...");
+		System.out.println("test3 local repository commit 3...");
 		
 		
 		

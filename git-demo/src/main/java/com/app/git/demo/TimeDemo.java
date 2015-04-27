@@ -39,6 +39,8 @@ public class TimeDemo {
 		System.out.println("testXXX local repository commit 6...");
 		
 		System.out.println("dev-1 local repository commit 1...");
+		
+		System.out.println("master local repository rebase commit 1...");
 	};
 
 	public String getAddr(String addr) {

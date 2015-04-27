@@ -32,7 +32,7 @@ public class TimeDemo {
 	public void method4D(){};
 	
 	public void test1(){
-		System.out.println("test2XOXO remote repository update commit 2...");
+		System.out.println("test2XOXO remote repository update commit 3...");
 		
 		System.out.println("test3 local repository commit 2...");
 		

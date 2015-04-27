@@ -42,7 +42,6 @@ public class TimeDemo {
 		
 		System.out.println("dev-1-OO local repository commit 7...");
 		
-		System.out.println("dev-1-OO local repository commit 8...");
 	};
 
 	public String getAddr(String addr) {

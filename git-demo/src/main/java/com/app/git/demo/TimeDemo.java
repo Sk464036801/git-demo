@@ -32,7 +32,7 @@ public class TimeDemo {
 	public void method4D(){};
 	
 	public void test1(){
-		System.out.println("test1 ...");
+		System.out.println("test2 repository update ...");
 	};
 
 	public String getAddr(String addr) {

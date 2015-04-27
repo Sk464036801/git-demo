@@ -32,8 +32,11 @@ public class TimeDemo {
 	public void method4D(){};
 	
 	public void test1(){
-		System.out.println("test2XOXO remote repository update commit 6...");
-		System.out.println("test3 local repository commit 5...");
+		
+		System.out.println("test2XOXO remote repository update commit 5...");
+		System.out.println("test3 local repository commit 6...");
+		System.out.println("testXXX local repository commit 6...");
+		
 	};
 
 	public String getAddr(String addr) {

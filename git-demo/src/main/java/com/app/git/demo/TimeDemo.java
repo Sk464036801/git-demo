@@ -42,6 +42,9 @@ public class TimeDemo {
 	};
 
 	public String getAddr(String addr) {
+		
+		System.out.println("dev-1 local repository rebase commit 1...");
+		
 		return "GDSZ";
 	}
 

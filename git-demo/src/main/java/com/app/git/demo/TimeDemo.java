@@ -35,6 +35,8 @@ public class TimeDemo {
 		System.out.println("test2XOXO remote repository update commit 2...");
 		
 		System.out.println("test3 local repository commit 2...");
+		
+		System.out.println("dev-1 local repository commit 4...");
 	};
 
 	public String getAddr(String addr) {

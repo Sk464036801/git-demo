@@ -33,5 +33,8 @@ public class TimeDemo {
 	
 	public void test1(){};
 
+	public String getAddr(String addr) {
+		return "GDSZ";
+	}
 
 }

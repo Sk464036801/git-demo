@@ -1,4 +1,4 @@
-package com.app.git.demo;
+ppackage com.app.git.demo;
 
 import java.util.Calendar;
 
@@ -41,6 +41,7 @@ public class TimeDemo {
 		System.out.println("dev-1 local repository commit 1...");
 		
 		System.out.println("master local repository rebase commit 6...");
+		System.out.println("gitflow local repository rebase commit 1...");
 	};
 
 	public String getAddr(String addr) {

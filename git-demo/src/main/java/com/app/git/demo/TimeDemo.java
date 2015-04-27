@@ -31,7 +31,9 @@ public class TimeDemo {
 
 	public void method4D(){};
 	
-	public void test1(){};
+	public void test1(){
+		System.out.println("test1 ...");
+	};
 
 	public String getAddr(String addr) {
 		return "GDSZ";

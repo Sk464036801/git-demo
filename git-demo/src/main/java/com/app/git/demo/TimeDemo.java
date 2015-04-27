@@ -33,6 +33,7 @@ public class TimeDemo {
 	
 	public void test1(){
 		System.out.println("test2 repository update ...");
+		System.out.println("test3 local repository commit ...");
 	};
 
 	public String getAddr(String addr) {

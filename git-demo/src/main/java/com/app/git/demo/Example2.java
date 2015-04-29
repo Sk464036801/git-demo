@@ -11,6 +11,8 @@ public class Example2 {
 
 		System.out.println("222 git test rebase.");
 
+		String fname = "xxx.test.mp3";
+		System.out.println(fname.substring(fname.lastIndexOf(".")+1));
 	}
 
 }

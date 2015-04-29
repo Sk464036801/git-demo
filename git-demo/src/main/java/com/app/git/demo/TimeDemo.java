@@ -1,4 +1,4 @@
-ppackage com.app.git.demo;
+package com.app.git.demo;
 
 import java.util.Calendar;
 

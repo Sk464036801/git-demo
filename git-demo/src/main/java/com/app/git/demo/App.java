@@ -18,5 +18,6 @@ public class App
         System.out.println("it develop branche 002");
         
         System.out.println("cherry-pick 001");
+        System.out.println("cherry-pick 002");
     }
 }

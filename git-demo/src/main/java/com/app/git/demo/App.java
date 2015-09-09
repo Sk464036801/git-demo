@@ -16,6 +16,5 @@ public class App
 
 
         System.out.println("it develop branche 002");
-
     }
 }

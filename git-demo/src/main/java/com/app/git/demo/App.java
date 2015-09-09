@@ -11,11 +11,5 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println(" it is master branch 001");
 
-
-
-
-        System.out.println("it develop branche 002");
-        
-
     }
 }

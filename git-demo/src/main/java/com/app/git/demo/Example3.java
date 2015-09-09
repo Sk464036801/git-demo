@@ -6,6 +6,8 @@ public class Example3 {
 		System.out.println("hello world");
 		
 		System.out.println("33333");
+		
+		System.out.println("cherry-pick 004 function");
 	}
 
 }

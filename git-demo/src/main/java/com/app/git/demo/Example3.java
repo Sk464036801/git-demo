@@ -10,6 +10,7 @@ public class Example3 {
 		System.out.println("cherry-pick 004 function");
 		System.out.println("cherry-pick 004 function 0001");
 		System.out.println("cherry-pick 004 function 0002");
+		System.out.println("cherry-pick 004 function 0003");
 	}
 
 }

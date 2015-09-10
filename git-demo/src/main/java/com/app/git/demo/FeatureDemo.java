@@ -11,7 +11,6 @@ public class FeatureDemo {
 		System.out.println("feature test develop commit 006");
 		System.out.println("feature test develop commit 007");
 		System.out.println("cherry-pick 004 function 00010");
-		System.out.println("cherry-pick 004 function 00011");
 	}
 
 }

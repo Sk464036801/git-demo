@@ -12,9 +12,6 @@ public class Example {
 		
 		SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss.S");
 		System.out.println(format.format(new Date()));
-		
-		System.out.println("cherry-pick 004 function 0008");
-		System.out.println("cherry-pick 004 function 0009");
 	}
 
 }

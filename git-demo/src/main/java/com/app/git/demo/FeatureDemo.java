@@ -9,6 +9,7 @@ public class FeatureDemo {
 		System.out.println("feature test develop commit 004");
 		System.out.println("feature test develop commit 005");
 		System.out.println("feature test develop commit 006");
+		System.out.println("feature test develop commit 007");
 	}
 
 }
